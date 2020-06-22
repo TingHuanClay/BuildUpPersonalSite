@@ -1,3 +1,25 @@
+---
+title: "阿宅的1st post"
+date: 2020-06-22T22:34:00+08:00
+draft: false
+
+# post thumb
+image: "images/post/post-13.jpg"
+
+# meta description
+description: "Chia Chia 2000 HITs"
+
+# taxonomies
+categories:
+  - "心得"
+tags:
+  - "BaseBall"
+  - "Brothers"
+
+# post type
+type: "post"
+---
+
 Hello World
 
 TH
