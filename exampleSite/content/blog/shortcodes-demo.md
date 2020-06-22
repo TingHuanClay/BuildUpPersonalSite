@@ -59,3 +59,19 @@ print('Hello World')
 ```java
 system.out.println('Hello World')
 ```
+
+Ref:
+
+[**How to use shortcodes in Hugo**](https://gohugo.io/content-management/shortcodes)
+
+#### One of interesting Youtube English video I watched recently.
+
+{{< youtube dzYdOjfqaX8 >}}
+
+#### One of Tweet shortcode.
+
+{{< tweet 877500564405444608 >}}
+
+#### Instagram
+
+{{< instagram Bx9V8B_lSJd >}}
