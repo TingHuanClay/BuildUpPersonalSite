@@ -6,7 +6,7 @@ title = "精煉阿宅之路"
 theme = "liva-hugo"
 summaryLength = "10"
 paginate = 6
-disqusShortname = ""
+disqusShortname = "tinghuanclay"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
@@ -65,7 +65,8 @@ home = "Home"
 description = "一步一腳印 踏實紀錄"
 author = "TH - Clay"
 # Google Analitycs
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-170494010-1"
+#googleAnalytics = "UA-170494010-1"
 # Contact Information
 mobile = "0124857985320"
 email = "claytinghuan@gmail.com"
