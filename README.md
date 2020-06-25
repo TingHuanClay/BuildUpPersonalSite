@@ -1,2 +1,2 @@
 # BuildUpPersonalSite
-Build Up Personal  Site via Github &amp; Hugo
+These repository build up personal blog via gitHub + Hugo
