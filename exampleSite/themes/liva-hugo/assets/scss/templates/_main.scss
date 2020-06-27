@@ -220,8 +220,10 @@
 
 
 /* markdown style */
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Caption&display=swap');
 .content {
   * {
+    font-family: 'PT Sans Caption';
     margin-bottom: 20px;
   }
 
@@ -249,7 +251,7 @@
 
       &::before {
         position: absolute;
-        content: "\e71b";
+        content: "❄";
         font-family: $icon-font;
         font-size: 14px;
         left: 0;
