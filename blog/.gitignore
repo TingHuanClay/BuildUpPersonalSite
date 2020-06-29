@@ -1,0 +1,7 @@
+# filename: .gitignore
+
+# ignore 'hugo.exe' file
+hugo.exe
+
+# ignore all files under folder 'public'
+public/*
