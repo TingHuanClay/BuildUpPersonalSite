@@ -16,4 +16,4 @@ type: "about"
 Here is Clay.
 <br>
 <br>
-I'm going to show the road map of my learning path.
+I'm going to display the road map of my learning path.
